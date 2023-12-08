@@ -3,7 +3,7 @@ project:
   output-dir: docs
 
 website:
-  title: "esther-amores.github.io"
+  title: "Esther"
   navbar:
     search: true
     left:

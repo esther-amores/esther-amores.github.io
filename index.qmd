@@ -1,15 +1,18 @@
 ---
-title: "Finley Malloc"
+title: "Esther Amores Gago"
 about:
   template: jolla
   image: images/logo.png
   links:
     - icon: twitter
       text: twitter
-      href: https://twitter.com
+      href: https://twitter.com/e9sther
     - icon: github
       text: Github
-      href: https://github.com
+      href: https://github.com/esther-amores
+    - icon: gitlab
+      text: GitLab
+      href: https://gitlab.com/esther-amores
 ---
 
 Finley Malloc is the Chief Data Scientist at Wengo Analytics. When not innovating on data platforms, Finley enjoys spending time unicycling and playing with her pet iguana.
