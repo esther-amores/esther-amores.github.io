@@ -5,14 +5,18 @@ project:
 website:
   title: "esther-amores.github.io"
   navbar:
+    search: true
     left:
-      - href: index.qmd
+      - file: index.qmd
         text: Home
       - about.qmd
+    favicon: images/logo.png
 
 format:
   html:
-    theme: cosmo
+    theme: 
+      light: minty
+      dark: darkly
     css: styles.css
     toc: true
 
